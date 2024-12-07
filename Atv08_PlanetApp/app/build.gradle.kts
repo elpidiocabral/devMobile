@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.avt07_zooap"
+    namespace = "com.example.atv08_planetapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.avt07_zooap"
+        applicationId = "com.example.atv08_planetapp"
         minSdk = 33
         targetSdk = 33
         versionCode = 1
@@ -56,7 +56,6 @@ dependencies {
     implementation ("androidx.navigation:navigation-compose:2.5.3")
     implementation ("androidx.lifecycle:lifecycle-runtime-compose:2.6.1")
     implementation ("androidx.activity:activity-compose:1.7.2")
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
