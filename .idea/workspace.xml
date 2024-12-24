@@ -17,8 +17,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdd542d7-3023-4fb4-81da-dee32dc978cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Atv01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atv01/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atv01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atv01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/androidTest/java/com/example/atv10_alarmapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/java/com/example/atv10_alarmapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/java/com/example/atv10_alarmapp/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/java/com/example/atv10_alarmapp/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/java/com/example/atv10_alarmapp/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/app/src/test/java/com/example/atv10_alarmapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atv10_AlarmApp/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +70,28 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oag2JJar87jkz4YVigbXFmEcio" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,6 +101,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
@@ -76,6 +128,8 @@
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
