@@ -61,7 +61,7 @@ fun MessageApp(viewModel: MessageViewModel) {
             TopAppBar(
                 title = {
                     Text(
-                        text = "MsgApp",
+                        text = "ZapZap",
                         style = MaterialTheme.typography.titleLarge,
                         color = MaterialTheme.colorScheme.onPrimary
                     )
